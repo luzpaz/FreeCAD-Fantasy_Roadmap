@@ -13,3 +13,8 @@ Below are ideas that I've encountered primarily on the FC forums that would be e
 
 ### Infrastructure
 * Github/Gitlab Oath plugin that allows seamless login if someone posseses a GitHub/GitLab account. [#3251](https://freecadweb.org/tracker/view.php?id=3251)
+
+## Personal Interests
+* Photovoltaics ([thread](https://forum.freecadweb.org/viewtopic.php?f=22&t=30750))  
+* Sauna WB  
+* Floatation Tank WB  
